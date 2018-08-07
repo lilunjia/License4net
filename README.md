@@ -1,6 +1,6 @@
 # License4net
 主要用于：.net 网站、winform、WPF客户端程序的软件授权，授权文件生成，版权控制和授权管理。
-设计思路可参考：https://www.jianshu.com/u/de02af3c1c1b
+设计思路可参考：https://www.jianshu.com/p/8ee4dad9484b
 
 - 第一步 生成授权文件
 ![image](https://github.com/lilunjia/License4net/blob/master/Images/codegenerate.jpg)
